@@ -1,4 +1,3 @@
-# ITUAIDATATHON
 # İTÜ AI Datathon – Görselden Konum Tahmini
 
 Bu repo, İTÜ (İstanbul Teknik Üniversitesi) kampüsünde çekilen fotoğraflardan **konum** (enlem-boylam) tahmini yapmayı amaçlayan bir projeyi içerir. Proje kapsamında hem **derin öğrenme** tabanlı **özellik çıkarma** hem de **kümeleme** ve **sınıflandırma** yöntemleriyle nihai konum tahmini yapılmaktadır. Kod, Datathon yarışmasında **8.** olan ekibin çözüm yaklaşımını göstermektedir.
